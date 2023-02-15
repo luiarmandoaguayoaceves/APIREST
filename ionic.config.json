@@ -1,0 +1,7 @@
+{
+  "name": "APIREST",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
